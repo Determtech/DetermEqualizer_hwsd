@@ -1,7 +1,6 @@
-
 # Copyright (c) 2011-2017 Stefan Eilemann <Stefan.Eilemann@epfl.ch>
 
-cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 project(hwsd VERSION 2.0.1)
 set(hwsd_VERSION_ABI 4)
 
